@@ -1,6 +1,6 @@
 package ProblemOne;
 public class Triangle extends Shape {
-    protected double side1, side2, side3;
+    public double side1, side2, side3;
 
     public Triangle(double side1, double side2, double side3) {
         super("Triangle");

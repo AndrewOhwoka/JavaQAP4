@@ -1,6 +1,6 @@
 package ProblemOne;
 public abstract class Shape {
-    protected String name;
+    public String name;
 
     public Shape(String name) {
         this.name = name;
